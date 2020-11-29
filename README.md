@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OofChair)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://api.ghprofile.me/view?username=OofChair&label=Total Profile Views&color=7289da)
+[![Profile Views](https://api.ghprofile.me/view?username=OofChair&label=profile_views&color=7289da)
