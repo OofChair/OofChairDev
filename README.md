@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my website (soon to come!)
 - 🌱 I’m currently learning discord.js and discord.py. 
-- 📫 How to reach me: Discord, OofChair#0001
+- 📫 How to reach me: Discord, OofWasTaken#0001, or join my discord server by pressing [here](https://discord.gg/3PfU5q22wN)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I have a Discord Bot! Check it out by pressing [here](https://pwnbot.xyz)
 
