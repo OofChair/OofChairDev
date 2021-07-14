@@ -1,6 +1,6 @@
 ### Hi, I'm OofChair :D
 
-![Profile Views](https://api.ghprofile.me/view?username=OofChair&label=profile_views&color=7289da)
+![](https://komarev.com/ghpvc/?username=OofChair&color=810d0d&style=flat-square&label=OofChair's+Profile+Views)
 
 Here are some ideas to get you started:
 
