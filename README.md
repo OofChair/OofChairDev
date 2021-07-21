@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OofChair)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/572944636209922059)](https://discord.com/users/572944636209922059)
+
 #### Why is my top langs SCSS and CSS? My website :kek:
 
 **My website files can be found here: https://github.com/OofChair/oofchair.xyz**
